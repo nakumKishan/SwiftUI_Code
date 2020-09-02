@@ -1,0 +1,51 @@
+[
+   {
+      "pokemonImage":"Totodile",
+      "pokemonName":"Totodile",
+      "pokemonType":"Water",
+      "typeColor" : "#37a7d7",
+      "colorCode": "#37a7d7"
+   },{
+      "pokemonImage":"Pikachu",
+      "pokemonName":"Pikachu",
+      "pokemonType":"Electric",
+      "typeColor" : "#eed535",
+      "colorCode": "#eed535"
+   },{
+      "pokemonImage":"Jigglypuff",
+      "pokemonName":"Jigglypuff",
+      "pokemonType":"Fairy",
+      "typeColor" : "#fabae9",
+      "colorCode": "#fabae9"
+   },{
+      "pokemonImage":"Charmander",
+      "pokemonName":"Charmander",
+      "pokemonType":"Fire",
+      "typeColor" : "#f77c24",
+      "colorCode": "#f77c24"
+   },{
+      "pokemonImage":"Ivysaur",
+      "pokemonName":"Ivysaur",
+      "pokemonType":"Grass",
+      "typeColor" : "#9bcc50",
+      "colorCode": "#37a7d7"
+   },{
+      "pokemonImage":"Venonat",
+      "pokemonName":"Venonat",
+      "pokemonType":"Poison",
+      "typeColor" : "#b87fca",
+      "colorCode": "#b87fca"
+   },{
+      "pokemonImage":"Lapras",
+      "pokemonName":"Lapras",
+      "pokemonType":"Ice",
+      "typeColor" : "#51c4e7",
+      "colorCode": "#51c4e7"
+   },{
+      "pokemonImage":"Pansear",
+      "pokemonName":"Pansear",
+      "pokemonType":"Fire",
+      "typeColor" : "#f77c24",
+      "colorCode": "#f77c24"
+   }
+]
