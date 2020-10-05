@@ -17,6 +17,9 @@ Youtube : [**@kishanNakum**](https://www.youtube.com/channel/UChVt9Eu1dWAlsbUdv9
 
 ## Demo - GIF's (More Projects on the way)👇🏻
 
+### Stopwatch
+![stopwatch](https://user-images.githubusercontent.com/8666236/95056159-ef909300-0711-11eb-8149-db6314f288db.gif)
+
 ### Pokemon
 ![in (1)](https://user-images.githubusercontent.com/8666236/91962531-462d3a80-ed2a-11ea-9b67-c25a5c3ddab6.gif)
 
